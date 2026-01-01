@@ -1,5 +1,5 @@
 
-Netlify: [View]()\
+Netlify: [View](https://quote-generator-bb.netlify.app/)
 
 Asosiy: Html, Css, Javascript vue3 dan foydalanildi
 
