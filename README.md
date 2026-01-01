@@ -1,4 +1,9 @@
-# .
+
+Netlify: [View]()\
+
+Asosiy: Html, Css, Javascript vue3 dan foydalanildi
+
+![Uifry](https://github.com/bekzodxudaybergenow/quote-generator/blob/master/public/design.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
